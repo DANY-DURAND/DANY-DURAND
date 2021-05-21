@@ -1,7 +1,7 @@
 public class SecondsAndMinutesChallenge {
 
 
-    public static String getDurationString(int minutes,int seconds){
+    public static String getDurationString(long minutes,long seconds){
         if((minutes<0)||(seconds<0)||(seconds>60)){
             return "Invalid Value";
         }
@@ -9,6 +9,10 @@ public class SecondsAndMinutesChallenge {
         long remainingminutes=minutes%60;
         return hours+"h "+remainingminutes+"m "+seconds+"s";
     }
-
-    public static String getDurationString(int )
-}
+    public static String getDurationString(long seconds){
+        if (seconds < 0)
+            return "Invalid value";
+        long minutes=seconds/60;
+        long remainingSeconds= seconds%60;
+        return getDurationString(minutes,remainingSeconds);
+    }}
