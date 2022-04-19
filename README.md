@@ -1,5 +1,5 @@
-### Hi there 👋
-###🌱 I’m currently learning Java and I'm a beginner with little experience in Coding.
+Hi there 👋<br/>
+🌱 I’m currently learning Java and I'm a beginner with little experience in Coding.
 <!--
 **DANY-DURAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
