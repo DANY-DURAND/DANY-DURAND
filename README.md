@@ -1,5 +1,5 @@
 Hi there 👋<br/>
-🌱 I’m currently a student at Shanghai Dianji University pursuing Computer Science.
+🌱 I’m currently a student at Shanghai Dianji University pursuing a Bachelor of Engineering.
 <!--
 **DANY-DURAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
