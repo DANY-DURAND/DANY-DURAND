@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Dany-Duran
-###### I am a student at Shanghai Dianji University studying Software Engineering in Shanghai. I am from Burundi and I love programming.
+##### I am a student at Shanghai Dianji University studying Software Engineering in Shanghai. I am from Burundi and I love programming.
 
-#####Skills:##### Java / Python / Django / Html / CSS / Javascript / NodeJS
+##### Skills: Java / Python / Django / Html / CSS / Javascript / NodeJS
 
 - 🌱 I’m currently learning Full stack Web development with Django, ReactJS and MongoDB 
 - 📫 How to reach me: dannydurandnzigamasabo@gmail.com 
