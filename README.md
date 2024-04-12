@@ -3,11 +3,11 @@
 
 - ##### Skills: Java / Python / Django / Html / CSS / Javascript / NodeJS
 
-- 🌱 I’m currently learning Full stack Web development with Django, ReactJS and MongoDB 
+- 🌱 I’m currently learning Full stack Web development with TypeScript, NextJS and PostgresSQL 
 - 📫 How to reach me: dannydurandnzigamasabo@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DANY-DURAND)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danny-durand-nzigamasabo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dannydurandnzi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/DANNYDURANDNZIG1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/danny-durand-nzigamasabo//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dannydurandnzi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/DANNYDURANDNZIG1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DANY-DURAND)](https://github.com/ryo-ma/github-profile-trophy)
 
