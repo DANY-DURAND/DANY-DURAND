@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANY-DURAND)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DANY-DURAND&show_icons=true&count_private=true)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DANY-DURAND&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DANY-DURAND)  
 
