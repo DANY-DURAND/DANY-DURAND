@@ -33,4 +33,4 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DANY-DURAND)  
 
-<!--![Profile views](https://gpvc.arturio.dev/DANY-DURAND) -->
+<!--![Profile views](https://gpvc.arturio.dev/DANY-DURANxD) -->
