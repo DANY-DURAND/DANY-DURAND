@@ -29,14 +29,10 @@
 ##### Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,docker,ubuntu,planetscale,vercel)](https://skillicons.dev)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANY-DURAND)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DANY-DURAND&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DANY-DURAND)  
-
-![GitHub metrics](https://metrics.lecoq.io/DANY-DURAND)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DANY-DURAND)  
-
-![Profile views](https://gpvc.arturio.dev/DANY-DURANxD) -->
+---
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=DANY-DURAND&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANY-DURAND&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
